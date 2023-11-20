@@ -1,0 +1,110 @@
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background: linear-gradient(to right,
+            #e6e6e6,
+            #f2f2f2,
+            #ffffff);
+}
+
+.tex-secondary {
+    text-align: center;
+    color: #666;
+    /* You can adjust the shade of gray as needed */
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #666;
+    color: #fff;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #d9d9d9;
+}
+
+.btn-small {
+    margin-right: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #666;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+}
+
+
+td {
+    border: 1px solid #666;
+    padding: 10px;
+}
+
+tr {
+    border: 1px solid #666;
+    padding: 10px;
+}
+
+.btn-warning {
+    background-color: #999;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.btn-danger {
+    background-color: #b3b3b3;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+th {
+    background-color: #666;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+h1 {
+    background-color: #666;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+.mango td,
+.mango th {
+    border: 2px solid #666;
+    padding: 10px;
+}
+
+.avatar-container {
+    text-align: center;
+}
+
+thead.bg-info {
+    background-color: #aba5a5;
+}
+
+.btn-small {
+    margin: 0 auto;
+}
